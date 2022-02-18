@@ -1,0 +1,11 @@
+{
+  "name": "Unofficial Microsoft Fluent 3D Emoji",
+  "id": "1076160789212134225",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "editorType": [
+    "figma",
+    "figjam"
+  ]
+}
